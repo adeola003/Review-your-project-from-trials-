@@ -1,0 +1,29 @@
+#img-div{
+    width:500px;
+    height: 300px;
+    text-align: center;
+    background-color: aqua;
+    margin: 0;
+    font-size: 1.6rem;
+}
+#image{
+padding-top: 10px;
+height: auto;
+max-width: 100%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+h1{
+    color: rgb(214, 27, 27);
+    background-color: beige;
+    text-align: justify;
+    margin: 0 auto;
+    display: block;
+}
+#facts{
+    background-color: burlywood;
+    color: aquamarine;
+    text-align: left;
+}
